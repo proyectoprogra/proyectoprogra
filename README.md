@@ -1,6 +1,7 @@
 proyectoprogra
 
-==============#include <list>
+==============
+#include <list>
 #include <curses.h>
 #include <stdlib.h>
 #include <time.h>
